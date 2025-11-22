@@ -7,7 +7,6 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <>
       <div>
         <h1>Welcome to Martian Star<h1>
 		<p>This my Martian site running on vite!</p>
